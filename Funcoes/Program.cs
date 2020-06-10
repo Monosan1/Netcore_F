@@ -21,7 +21,7 @@ namespace Funcoes
         static int Maior(int a, int b, int c)
         {
             int m;
-            if (a>b && a > c)
+            if (a > b && a > c)
             {
                 m = a;
             }
